@@ -1,0 +1,56 @@
+    {
+        "basics": {
+        "name": "Igor Kocherha",
+        "name2":"Igor",
+        "label": "Programmer",
+        "image": "",
+        "email": "igorcamponotus@gmail.com",
+        "phone": "+34 643 502 810",
+        "url": "none",
+        "summary": "Hello there, I am Igor, a passionate Frontend Developer skilled in React, HTML, CSS, and JavaScript. With a strong focus on creating visually appealing and user-friendly web applications, I thrive on turning complex problems into elegant solutions. My enthusiasm for frontend development drives me to continuously learn and stay updated with the latest trends and technologies in the field. ",
+        "summary2":"Hello there, I am Igor, a passionate Frontend Developer specializing in React, HTML, CSS, and JavaScript.",
+        "location_short":"Madrid, Spain, CET",
+        "location": {
+            "address": "28021 C.Godella",
+            "postalCode": "ES 28021",
+            "city": "Madrid",
+            "countryCode": "ES",
+            "region": "Spain"
+        },
+        "profiles": [{
+            "network": "Github",
+            "username": "igor-helloworld",
+            "url": "https://github.com/igor-helloworld"
+        }]
+        },
+        "work": [{
+        "name": "none",
+        "position": "none",
+        "url": "none",
+        "startDate": "none",
+        "endDate": "none",
+        "summary": "none",
+        "highlights": [
+            "none"
+        ]
+        }],
+        "skills": [{
+        "name": "Frontend",
+        "level": "Junior",
+        "keywords": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+
+        ]
+        }],
+        "languages": [{
+        "language1": "English",
+        "fluency1": "Certificate Cambridge B2",
+        "language2": "Spanish",
+        "fluency2": "Native Speaker",
+        "language3": "Russian",
+        "fluency3": "Native Speaker"
+        }]
+    }
